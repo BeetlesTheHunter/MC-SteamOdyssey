@@ -1,0 +1,13 @@
+name = "Ad Astra: Orbit+"
+filename = "Ad Astra Orbit + 1.20.1 1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a2e954785ce21880105ab0852edefd0ccaca85d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8910557
+project-id = 1682474

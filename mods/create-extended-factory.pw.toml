@@ -1,0 +1,13 @@
+name = "Create: Extended Factory (Create: Ore Factory)"
+filename = "create_ore_factory-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34561f5446b7be6a4863e2a4cb208047f7642fef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6248028
+project-id = 1122968

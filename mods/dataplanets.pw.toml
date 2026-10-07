@@ -1,0 +1,13 @@
+name = "Dataplanets"
+filename = "dataplanets-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c9be18e55ff8bbae8f20e19a10fc7520602ebc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7889251
+project-id = 1505755
