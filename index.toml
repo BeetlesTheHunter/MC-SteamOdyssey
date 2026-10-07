@@ -21,14 +21,13 @@ hash = "855a8aed204e15e2c3f26d8cd4c567547620fb1cbe60a3a0b2803fae11a6611d"
 metafile = true
 
 [[files]]
-file = "mods/alexs-cuisine.pw.toml"
-hash = "e3211f70e60df4a893b8eca54b4e3d45f8e9015a3c7b017a23ca0c06045b1175"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
+
+[[files]]
+file = "mods/alexscuisine-1.2.0.jar"
+hash = "ec2fd27a7ce3a68f48590acc3043352e7a0bc62b59351fcac312f5ba58a47506"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -91,11 +90,6 @@ hash = "546e187fc8c7acc99c975789f00a2e7c03c5c59aed16abf5e061370ae24d8a8a"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-factory.pw.toml"
-hash = "a86a5ca094048d413988ad49af748b306d5ceae7b4af5385d89d583a16813085"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "36debf62fcd0100249feb97de9ff0353c2e80dabcebe7f8941091f457000d9c7"
 metafile = true
@@ -111,14 +105,17 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
+file = "mods/create_ore_factory-1.0.0-forge-1.20.1.jar"
+hash = "3003767b1d1f137d1687efc37d6178cf9d2fdd6e1204a3c3452ea1ceb4f09163"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
 
 [[files]]
-file = "mods/cuisinecore.pw.toml"
-hash = "fe6b929132d14612345145e08fb1575e4e7c03a66c18a01323e1955c0a1b1e1a"
-metafile = true
+file = "mods/cuisinecore-1.0.0.jar"
+hash = "df04e95baa652475c6a2071a674f38b0c7c4b9ade7698e77b1ecc27a19229b18"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -152,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d654038ae1046e7967a93e1f76e54d43c9d73d66abf79760b2426be9e4422921"
+hash = "03783bea6895d8acf198ac7d8bce4f91746659d0954f7367d0029b11963edee0"
 metafile = true
 
 [[files]]
@@ -236,9 +233,8 @@ hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-progressive-difficulty-continued.pw.toml"
-hash = "244744d0c50e42d371d8550838faec67ed67d98268eef29e89ec6faee3f8eab0"
-metafile = true
+file = "mods/majruszs-difficulty-forge-1.20.1-1.1.3.jar"
+hash = "bbac2a08e81d9293c2205ed6f69271f7c2acf24e06dec695d7ec591fce219940"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
