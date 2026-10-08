@@ -1,0 +1,13 @@
+name = "Farmer's Delight Addon Fixes"
+filename = "mndfix-1.12.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yskd8AQh/versions/bRAvwDEG/mndfix-1.12.0-all.jar"
+hash-format = "sha512"
+hash = "dcc08fe0a308291cd20e20e005e71a069f371f5af678669ce1943ca733168b58412f97012b8d6466a053418727bec2a66548582879952d0e7b9477e6e43102ff"
+
+[update]
+[update.modrinth]
+mod-id = "Yskd8AQh"
+version = "bRAvwDEG"

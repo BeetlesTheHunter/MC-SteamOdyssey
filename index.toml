@@ -257,6 +257,11 @@ hash = "3a688982756c6e0a9e7bdacf3805a04aac68a613bc0e839fc8d8f6cbebc49f65"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-fix.pw.toml"
+hash = "c34c3800cf5e72569accaf7c5521fe947ed3864f11a58865d378396a60035b00"
+metafile = true
+
+[[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "4ff2e0b5811eaf6a86f28766c7dd08f730bb7293bbfe1d651cc025fba06a0be2"
 metafile = true
