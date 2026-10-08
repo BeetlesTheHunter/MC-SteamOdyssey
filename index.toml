@@ -30,6 +30,11 @@ file = "mods/alexscuisine-1.2.0.jar"
 hash = "ec2fd27a7ce3a68f48590acc3043352e7a0bc62b59351fcac312f5ba58a47506"
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
