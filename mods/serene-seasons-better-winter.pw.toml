@@ -1,0 +1,13 @@
+name = "Serene Seasons Better Winter"
+filename = "serenebetterwinter-1.4.0+forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/djVR6LWm/versions/5Kk5SwRV/serenebetterwinter-1.4.0%2Bforge-1.20.1.jar"
+hash-format = "sha512"
+hash = "676f27f813af0b8d2cd80534ce640ad394c16f0e639f0dae1320dac5b017f2653839eb631097c11b8b54ad9e85f03144f3eb38728cb0b27bedfdfa028e2c39a4"
+
+[update]
+[update.modrinth]
+mod-id = "djVR6LWm"
+version = "5Kk5SwRV"

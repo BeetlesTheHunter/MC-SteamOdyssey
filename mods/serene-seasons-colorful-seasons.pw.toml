@@ -1,0 +1,13 @@
+name = "Serene Seasons: Colorful Seasons"
+filename = "Forge-ColorfulSeasons-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "955a56027b4f0f51e2ed9d3ca95ca4c13f597f65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8107775
+project-id = 1543537

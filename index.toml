@@ -302,6 +302,16 @@ hash = "0dbf757962d6ddf7d212f167b5979934ff7d7b9b8d9d1e6b33f4693d55ed5b17"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-better-winter.pw.toml"
+hash = "10e5da4a9b49da71269c7962aff17e8bc94eb08ab800c41db8cb973b6d684016"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons-colorful-seasons.pw.toml"
+hash = "220ea1712792e160e582c45cab3715b0716dc4ab7dd5c7137372c0907f40d8bf"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "0c41a171e535eeab09672ffe05724bcc47081ab05b260bbc3882c43ee3446186"
 metafile = true
