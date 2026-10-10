@@ -60,6 +60,11 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
 file = "mods/cgs.pw.toml"
 hash = "4353e0465ccdd0349069c83bf88c02dc296c874e1a642da77665e9c7d7d0bb1c"
 metafile = true
@@ -254,6 +259,11 @@ hash = "bbac2a08e81d9293c2205ed6f69271f7c2acf24e06dec695d7ec591fce219940"
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "3a688982756c6e0a9e7bdacf3805a04aac68a613bc0e839fc8d8f6cbebc49f65"
+metafile = true
+
+[[files]]
+file = "mods/music-disc-maker.pw.toml"
+hash = "999b4859068c4da124c3983d18bf398d0d408c0603cb4faeb1176fdf94cd3a21"
 metafile = true
 
 [[files]]
