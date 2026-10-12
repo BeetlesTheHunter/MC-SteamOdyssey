@@ -70,6 +70,11 @@ hash = "cb270e6cf9c64047b055c4924baed2598f8baf31d336a88d7c214cf1dee6fab8"
 metafile = true
 
 [[files]]
+file = "mods/burnt.pw.toml"
+hash = "7cd0de0ca3feb71c45385307271908ac632d970adfb9839461cae174eaf57933"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -204,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]

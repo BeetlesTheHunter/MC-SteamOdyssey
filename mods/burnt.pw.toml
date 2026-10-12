@@ -1,0 +1,13 @@
+name = "Burnt + Additions"
+filename = "burnt-1.10.5.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tsc9D2wh/versions/b3zf6XDz/burnt-1.10.5.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "96c992ecb9e1e3e3225671e1bf5436265179221c57dfde790900b411bb586192925224bf3c77553377468ed737b99961f814d40f346bb6c9eb2b8cb50cd0f290"
+
+[update]
+[update.modrinth]
+mod-id = "tsc9D2wh"
+version = "b3zf6XDz"
