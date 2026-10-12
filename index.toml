@@ -60,11 +60,6 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
-file = "mods/burnt-basic.pw.toml"
-hash = "3e238eff746dff4d33f912e1ea743cb1384fd4288f6f0a977d9d68b673240b33"
-metafile = true
-
-[[files]]
 file = "mods/burnt-dynamic-trees.pw.toml"
 hash = "cb270e6cf9c64047b055c4924baed2598f8baf31d336a88d7c214cf1dee6fab8"
 metafile = true
