@@ -1,0 +1,13 @@
+name = "Burnt"
+filename = "burnt_basic-1.10.5.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cf2ba52dacb71d2d6132ecedb20772c581acd47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8994431
+project-id = 1001031
