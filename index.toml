@@ -337,6 +337,11 @@ hash = "0c41a171e535eeab09672ffe05724bcc47081ab05b260bbc3882c43ee3446186"
 metafile = true
 
 [[files]]
+file = "mods/sit.pw.toml"
+hash = "8e53bd7c51af468c9dd6dc8843167c4f9a55cc059dcfb127b55f9ac06c387bca"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
