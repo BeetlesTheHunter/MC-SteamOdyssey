@@ -302,6 +302,11 @@ hash = "4ff2e0b5811eaf6a86f28766c7dd08f730bb7293bbfe1d651cc025fba06a0be2"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
