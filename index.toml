@@ -100,6 +100,11 @@ hash = "11b62d086529833b454fdd6de19798baacbb078d16683c1b0ce4c421d4a9dafb"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "fdb42bca6a22d299313dc072a7f86523140614e8dc478636c872e2310d10dfbe"
 metafile = true
@@ -270,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-difficulty-forge-1.20.1-1.1.3.jar"
 hash = "bbac2a08e81d9293c2205ed6f69271f7c2acf24e06dec695d7ec591fce219940"
+
+[[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "18e911c5a0308b2b6bcde2e4c4ac0cf1ff6d2a7b9d4e82ba4c80d97ae0b2a79e"
+metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
