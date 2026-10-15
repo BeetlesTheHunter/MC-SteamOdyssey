@@ -347,11 +347,6 @@ hash = "220ea1712792e160e582c45cab3715b0716dc4ab7dd5c7137372c0907f40d8bf"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-fix.pw.toml"
-hash = "7f1ece72c7e693d5f05c8cfbbe14298ca9e5a3976f331445bf0e9e2909ea4a7b"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "0c41a171e535eeab09672ffe05724bcc47081ab05b260bbc3882c43ee3446186"
 metafile = true
