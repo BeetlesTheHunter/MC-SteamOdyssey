@@ -415,13 +415,3 @@ metafile = true
 file = "mods/vs-genesis.pw.toml"
 hash = "b73c4e20f122821442c4a9821e973f87564fde9a1cfcafe5beba220f30b42b29"
 metafile = true
-
-[[files]]
-file = "mods/zero-point-labs.pw.toml"
-hash = "bc046f68a2b672b917a8232d4e6cc5b256941740edeff5ba38eefed9cdfe6918"
-metafile = true
-
-[[files]]
-file = "mods/zps.pw.toml"
-hash = "03b95d231cf135c9172813e38a21f12a1cf259bf63ee5d8d3b4c5b65fdd7a9d1"
-metafile = true
