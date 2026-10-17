@@ -1,0 +1,13 @@
+name = "Serene Seasons Better Winter"
+filename = "serenebetterwinter-1.4.0+forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5835ae6f80400e31b8870e85f2d7a26e82c2853"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7701200
+project-id = 1465991
