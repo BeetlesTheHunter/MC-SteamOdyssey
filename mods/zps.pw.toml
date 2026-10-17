@@ -1,0 +1,13 @@
+name = "Zero Point Systems"
+filename = "zps-1.20.1-2.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d12e3a9922f86f2a4632760ba5c1d3528ec886e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9040238
+project-id = 1283072

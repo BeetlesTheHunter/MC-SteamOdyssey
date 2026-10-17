@@ -415,3 +415,8 @@ metafile = true
 file = "mods/vs-genesis.pw.toml"
 hash = "b73c4e20f122821442c4a9821e973f87564fde9a1cfcafe5beba220f30b42b29"
 metafile = true
+
+[[files]]
+file = "mods/zps.pw.toml"
+hash = "3b5a67a2cd66dcd04893ba9a2a317a853e24920bb37b4c135d16bfe36b5dbfef"
+metafile = true
