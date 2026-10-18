@@ -427,11 +427,6 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
-metafile = true
-
-[[files]]
 file = "mods/tact.pw.toml"
 hash = "69007b4d244fd97735030b6c498803fbb4d2a055c6dd7a6bb4ac09dea0428b5a"
 metafile = true
