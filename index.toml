@@ -21,11 +21,6 @@ hash = "855a8aed204e15e2c3f26d8cd4c567547620fb1cbe60a3a0b2803fae11a6611d"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
@@ -424,11 +419,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
-metafile = true
-
-[[files]]
-file = "mods/tact.pw.toml"
-hash = "69007b4d244fd97735030b6c498803fbb4d2a055c6dd7a6bb4ac09dea0428b5a"
 metafile = true
 
 [[files]]
